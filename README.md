@@ -18,7 +18,7 @@
 ## 🚀 Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,git,github,vscode,html,css" />
+<img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,github,vscode,html,css" />
 </p>
 
 ---
@@ -43,19 +43,26 @@
 
 ## 📫 Connect With Me
 
-<p>
-<a href="https://www.linkedin.com/in/manav-pandya-2628aa273/">
+<p align="left">
+
+<a href="https://www.linkedin.com/in/manav-pandya-2628aa273/" title="LinkedIn">
 <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
 
-<a href="https://manavpandya31portfolio.netlify.app/">
-<img src="https://skillicons.dev/icons?i=devto" height="40"/>
+    
+
+<a href="https://manavpandya31portfolio.netlify.app/" title="Portfolio">
+<img src="https://img.icons8.com/fluency/48/domain.png" height="40"/>
 </a>
 
-<a href="mailto:manavpandya42@gmail.com">
+    
+
+<a href="mailto:manavpandya42@gmail.com" title="Email">
 <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
 </a>
+
 </p>
+
 
 ---
 
