@@ -43,9 +43,19 @@
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: [https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/manav-pandya-2628aa273/)
-* 🌐 Portfolio: [https://yourportfolio.com](https://manavpandya31portfolio.netlify.app/)
-* 📧 Email: [manavpandya42@gmail.com](mailto:manavpandya42@gmail.com)  
+<p>
+<a href="https://www.linkedin.com/in/manav-pandya-2628aa273/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+
+<a href="https://manavpandya31portfolio.netlify.app/">
+<img src="https://skillicons.dev/icons?i=devto" height="40"/>
+</a>
+
+<a href="mailto:manavpandya42@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+</a>
+</p>
 
 ---
 
