@@ -48,15 +48,9 @@
 <a href="https://www.linkedin.com/in/manav-pandya-2628aa273/" title="LinkedIn">
 <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
-
-    
-
 <a href="https://manavpandya31portfolio.netlify.app/" title="Portfolio">
 <img src="https://img.icons8.com/fluency/48/domain.png" height="40"/>
 </a>
-
-    
-
 <a href="mailto:manavpandya42@gmail.com" title="Email">
 <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
 </a>
