@@ -18,58 +18,40 @@
 ## 🚀 Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,python,linux,git,github,vscode,html,css" />
+<img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,git,github,vscode,html,css" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 
-![Manav's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
+![Manav's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManavPandya31\&show_icons=true\&theme=tokyonight)
 
 ---
 
 ## 📈 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManavPandya31\&layout=compact\&theme=tokyonight)
 
 ---
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME\&theme=tokyonight)
-
----
-
-## 🐍 Contribution Snake
-
-![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
-
----
-
-## 📌 Featured Projects
-
-Here are some of my best projects:
-
-* 🚀 **MERN Authentication System**
-* 📋 **Task Management App**
-* 💬 **Real-time Chat Application**
-* 📊 **Redux State Management Project**
-* 🔐 **JWT Authentication API**
+![GitHub Streak](https://streak-stats.demolab.com/?user=ManavPandya31\&theme=tokyonight)
 
 ---
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: https://linkedin.com/in/yourprofile
-* 🌐 Portfolio: https://yourportfolio.com
-* 📧 Email: [your.email@example.com](mailto:your.email@example.com)
+* 💼 LinkedIn: [https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/manav-pandya-2628aa273/)
+* 🌐 Portfolio: [https://yourportfolio.com](https://manavpandya31portfolio.netlify.app/)
+* 📧 Email: [manavpandya42@gmail.com](mailto:manavpandya42@gmail.com)  
 
 ---
 
 ## 👀 Profile Views
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME)
+![](https://komarev.com/ghpvc/?username=ManavPandya31)
 
 ---
 
