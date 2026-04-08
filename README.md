@@ -1,3 +1,4 @@
+
 # Hi 👋 I'm Manav Pandya
 
 🚀 **MERN Stack Developer** passionate about building scalable and high-performance web applications.
@@ -23,18 +24,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Manav's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManavPandya31\&show_icons=true\&theme=tokyonight)
-
----
-
-## 📈 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManavPandya31\&layout=compact\&theme=tokyonight)
-
----
-
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=ManavPandya31\&theme=tokyonight)
@@ -56,13 +45,6 @@
 </a>
 
 </p>
-
-
----
-
-## 👀 Profile Views
-
-![](https://komarev.com/ghpvc/?username=ManavPandya31)
 
 ---
 
