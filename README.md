@@ -8,7 +8,7 @@ I Focus On Writing Clean Code, Optimizing Performance, And Creating Real-World S
 
 ## 💡 About Me
 
--  Working on **real-world MERN applications**
+-  Working On **real-world MERN applications**
 -  Currently Learning **Advanced React, System Design & Backend Optimization**
 -  Skilled In **JavaScript, React, Node.js, Express & MongoDB**
 -  Goal: Build **production-ready and scalable systems**
