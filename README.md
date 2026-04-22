@@ -18,7 +18,7 @@ I focus on writing clean code, optimizing performance, and creating real-world s
 ## 🛠 Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,github,vscode,html,css" />
+<img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,firebase,github,vscode,html,css" />
 </p>
 
 ---
