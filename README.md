@@ -1,16 +1,16 @@
 # Hey 👋 I'm Manav Pandya
 
-🚀 Full Stack (MERN) Developer passionate about building scalable, high-performance web applications.
+🚀 Full Stack (MERN) Developer Passionate About Building Scalable, High-Performance Web Applications.
 
-I focus on writing clean code, optimizing performance, and creating real-world solutions that scale.
+I Focus On Writing Clean Code, Optimizing Performance, And Creating Real-World Solutions That Scale.
 
 ---
 
 ## 💡 About Me
 
 -  Working on **real-world MERN applications**
--  Currently learning **Advanced React, System Design & Backend Optimization**
--  Skilled in **JavaScript, React, Node.js, Express & MongoDB**
+-  Currently Learning **Advanced React, System Design & Backend Optimization**
+-  Skilled In **JavaScript, React, Node.js, Express & MongoDB**
 -  Goal: Build **production-ready and scalable systems**
 
 ---
