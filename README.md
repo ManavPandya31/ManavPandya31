@@ -32,9 +32,6 @@ I focus on writing clean code, optimizing performance, and creating real-world s
 <a href="https://manavpandya31portfolio.netlify.app/">
 <img src="https://img.icons8.com/fluency/48/domain.png" height="40"/>
 </a>
-<a href="mailto:manavpandya42@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="40"/>
-</a>
 </p>
 
 ---
