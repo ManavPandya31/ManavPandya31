@@ -36,4 +36,4 @@ I focus on writing clean code, optimizing performance, and creating real-world s
 
 ---
 
-🔥 *Open to opportunities, collaborations, and challenging projects.*
+
