@@ -9,7 +9,7 @@ I Focus On Writing Clean Code, Optimizing Performance, And Creating Real-World S
 ## 💡 About Me
 
 -  Working On **real-world MERN applications**
--  Skilled In **TypeScript, JavaScript, React, Node.js, Express,MoleculerJS MongoDB, PostgreSQL, Supabase**
+-  Skilled In **TypeScript, JavaScript, React, Node.js, Express, MongoDB, PostgreSQL, Supabase**
 -  Goal: Build **production-ready and scalable systems**
 
 ---
@@ -17,7 +17,7 @@ I Focus On Writing Clean Code, Optimizing Performance, And Creating Real-World S
 ## 🛠 Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=javascript,typescript,mongodb,express,react,nodejs,nestjs,supabase,postgresql,firebase" />
+<img src="https://skillicons.dev/icons?i=javascript,typescript,mongodb,express,react,nodejs,nestjs,moleculerjs,supabase,postgresql,firebase" />
 </p>
 
 ---
